@@ -1,4 +1,4 @@
-# Script CyberPunk (V1-Websocket)
+# Script CyberPunk (V7-Websocket)
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By Cikcakman <img src="https://img.shields.io/badge/Version-7.0-blue.svg"></h2>
